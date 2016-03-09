@@ -1,7 +1,7 @@
 Package.describe({
   name: 'hanskohls:linearicons',
   version: '0.1.1',
-  summary: 'Package to integrate free version of linearicons via cloudfront CDN. See https://linearicons.com/free',
+  summary: 'Package to integrate free version of linearicons. https://linearicons.com/free',
   git: 'https://github.com/hanskohls/meteorjs-linearicons',
   documentation: 'README.md'
 });
